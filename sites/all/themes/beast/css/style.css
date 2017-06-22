@@ -1,0 +1,29 @@
+/*Background Image*/ 
+body{
+ /* background-image: url('../images/wood_panel_007.jpeg');
+  background-color: #000;
+  background-position: inherit;
+  background-size:  100% 100%;
+  margin: 0;
+  background-repeat: no-repeat;*/
+  font-family: 'Roboto',Helvetica,sans-serif;
+}   
+
+
+/*navigation*/
+.navbar-nav span{margin-right: 5px;}  
+
+/* Social Media */ 
+.social-icon p{margin: 0; } 
+.social-icon p a{margin-left: 5px; font-size: 35px; color: #777;}
+
+/*Footer*/ 
+/*footer{ margin-top: 20px; padding: 20px 0 0; background-color: #222; color: #fff; } 
+footer a{color: #fff;}*/
+ 
+/*Store Locations List*/ 
+.store-locate-header {margin-top: 30px; margin-bottom: 20px; }
+.store-locate {line-height: 1.5; list-style-type:none; font-size: 17px;  } 
+
+/*Page Headers*/  
+.page-header {text-align: center;}
