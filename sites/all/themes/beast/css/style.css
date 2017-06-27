@@ -26,4 +26,10 @@ footer a{color: #fff;}*/
 .store-locate {line-height: 1.5; list-style-type:none; font-size: 17px;  } 
 
 /*Page Headers*/  
-.page-header {text-align: center;}
+.page-header {text-align: center;} 
+
+/*Beast Guy Image*/
+.beastguy {margin: auto;} 
+
+/*Buy Button*/ 
+.btn-buy {height: 54%; width: 54%;}
