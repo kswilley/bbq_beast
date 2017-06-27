@@ -32,4 +32,6 @@ footer a{color: #fff;}*/
 .beastguy {margin: auto;} 
 
 /*Buy Button*/ 
-.btn-buy {height: 54%; width: 54%;}
+.btn-buy {height: 54%; width: 54%;}   
+.btn-small-buy p{margin: 0; } 
+.btn-small-buy p a{margin-left: 5px; color: #777;}
