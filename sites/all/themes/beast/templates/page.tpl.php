@@ -72,7 +72,10 @@
  *
  * @ingroup templates
  */
-?>
+?> 
+
+<div class="beast-slideshow-display"><?php print render($page['slideshow']); ?></div> 
+
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
   <div class="<?php print $container_class; ?>">
     <div class="navbar-header">
@@ -94,7 +97,9 @@
           <span class="icon-bar"></span>
         </button>
       <?php endif; ?>
-    </div>
+    </div> 
+    
+    
 
     <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
       <div class="navbar-collapse collapse" id="navbar-collapse">
@@ -112,7 +117,9 @@
       </div>
     <?php endif; ?>
   </div>
-</header>
+</header> 
+
+
 
 <div class="main-container <?php print $container_class; ?>">
 
