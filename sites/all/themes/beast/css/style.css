@@ -1,12 +1,11 @@
 /*Background Image*/ 
 body{
- /* background-image: url('../images/wood_panel_007.jpeg');
-  background-color: #000;
+ /* background-color: rgb(252,254,226);
   background-position: inherit;
   background-size:  100% 100%;
   margin: 0;
-  background-repeat: no-repeat;*/
-  font-family: 'Roboto',Helvetica,sans-serif;
+  background-repeat: no-repeat;
+  font-family: 'Roboto',Helvetica,sans-serif;*/
 }   
 
 
@@ -15,23 +14,56 @@ body{
 
 /* Social Media */ 
 .social-icon p{margin: 0; } 
-.social-icon p a{margin-left: 5px; font-size: 35px; color: #777;}
+.social-icon p a{margin-left: 5px; font-size: 35px; color: #777;} 
+.social-icon a:hover {color: white;}
 
 /*Footer*/ 
 /*footer{ margin-top: 20px; padding: 20px 0 0; background-color: #222; color: #fff; } 
 footer a{color: #fff;}*/
  
 /*Store Locations List*/ 
-.store-locate-header {margin-top: 30px; margin-bottom: 20px; }
+.store-locate-header {margin-top: 30px; margin-bottom: 20px;  }
 .store-locate {line-height: 1.5; list-style-type:none; font-size: 17px;  } 
 
 /*Page Headers*/  
-.page-header {text-align: center;} 
+.page-header {text-align: center; margin-bottom: 1px; padding-top: 50px;} 
 
 /*Beast Guy Image*/
 .beastguy {margin: auto;} 
 
 /*Buy Button*/ 
-.btn-buy {height: 54%; width: 54%;}   
+.btn-buy {height: 100%; width: 100%;}   
 .btn-small-buy p{margin: 0; } 
-.btn-small-buy p a{margin-left: 5px; color: #777;}
+.btn-small-buy p a{margin-left: 5px; color: #777;} 
+
+/*Holding Trophy Image*/ 
+.holding-trophy{margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 50px;  border: 2px solid; border-color: rgb(238,238,238);}
+
+/*Recipe Title*/ 
+.recipe-name{text-align: center;}
+
+/*Beast Awards Page & Table*/ 
+.beastaward-table{margin-top: 20px; padding: 10px;}  
+.beastaward-image{margin-top: 20px;border: 1px solid; border-color: rgb(238,238,238);}
+
+/*Buy Block*/ 
+.buy-block{padding: 15px 10px 10px 10px;} 
+
+/*Store Locations*/ 
+/*.store-locate-table{margin: 0px 10px 10px 10px; padding: 10px}*/ 
+.store-locate-map{margin-top: 30px; margin-left: 10px; border: 1px solid; border-color: rgb(238,238,238); } 
+
+/*Navbar Spacing*/
+.body.admin-menu.navbar-is-fixed-top{ padding-top: 40px !important; }  
+.body.toolbar.navbar-is-fixed-top{padding-top:40px !important;} 
+
+/*Beast Slideshow Display*/  
+#block-views-slideshow-block{padding-right: 0px; padding-left: 0px;}  
+.slideshow-beast{border-bottom: .5px solid; border-color: white; padding-top: 20px;} 
+
+/*Front Page Map*/ 
+.front-page-map h2 {text-align: center; margin: 15px;padding: 5px;} 
+.front-page-map div {border: 1px solid; border-color: rgb(238,238,238);} 
+
+/*Front Page Contact Form*/ 
+.front-page-contact-us h2{text-align: center; margin: 15px;padding: 5px;}
