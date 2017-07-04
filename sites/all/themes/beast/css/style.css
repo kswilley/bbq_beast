@@ -26,11 +26,9 @@ footer a{color: #fff;}*/
 .store-locate {line-height: 1.5; list-style-type:none; font-size: 17px;  } 
 
 /*Page Headers*/  
-<<<<<<< HEAD
+
 .page-header {text-align: center; margin-bottom: 1px; padding-top: 50px;} 
-=======
-.page-header {text-align: center; margin-bottom: 1px; padding-top: 25px;} 
->>>>>>> 1e4d8434dc9970b49ec8da3a8d762323701bd10c
+
 
 /*Beast Guy Image*/
 .beastguy {margin: auto;} 
@@ -41,11 +39,9 @@ footer a{color: #fff;}*/
 .btn-small-buy p a{margin-left: 5px; color: #777;} 
 
 /*Holding Trophy Image*/ 
-<<<<<<< HEAD
+
 .holding-trophy{margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 50px;  border: 2px solid; border-color: rgb(238,238,238);}
-=======
-.holding-trophy{margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 50px;  border: 1px solid; border-color: rgb(238,238,238);}
->>>>>>> 1e4d8434dc9970b49ec8da3a8d762323701bd10c
+
 
 /*Recipe Title*/ 
 .recipe-name{text-align: center;}
@@ -75,7 +71,6 @@ footer a{color: #fff;}*/
 .front-page-map div {border: 1px solid; border-color: rgb(238,238,238);} 
 
 /*Front Page Contact Form*/ 
-.front-page-contact-us h2{text-align: center; margin: 15px;padding: 5px;}
-=======
+.front-page-contact-us h2{text-align: center; margin: 20px; padding: 10px;}
 .slideshow-beast{border-bottom: .5px solid; border-color: white;}
->>>>>>> 1e4d8434dc9970b49ec8da3a8d762323701bd10c
+
