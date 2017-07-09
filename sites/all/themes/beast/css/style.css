@@ -27,7 +27,7 @@ footer a{color: #fff;}*/
 
 /*Page Headers*/  
 
-.page-header {text-align: center; margin-bottom: 1px; padding-top: 50px;} 
+.page-header {text-align: center; margin-bottom: 1px; padding-top: 70px;} 
 
 
 /*Beast Guy Image*/
@@ -63,8 +63,8 @@ footer a{color: #fff;}*/
 
 /*Beast Slideshow Display*/  
 #block-views-slideshow-block{padding-right: 0px; padding-left: 0px;}  
-
-.slideshow-beast{border-bottom: .5px solid; border-color: white; padding-top: 15px;} 
+.slide-titles {margin:5px;}
+.slideshow-beast{border-bottom: 4px solid; border-color: rgb(238,238,238); padding-top: 10px; margin-top: 10px;} 
 
 /*Front Page Map*/ 
 .front-page-map h2 {text-align: center; margin: 15px;padding: 5px;} 
@@ -73,4 +73,5 @@ footer a{color: #fff;}*/
 /*Front Page Contact Form*/ 
 .front-page-contact-us h2{text-align: center; margin: 20px; padding: 10px;}
 .slideshow-beast{border-bottom: .5px solid; border-color: white;}
+
 
