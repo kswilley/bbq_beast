@@ -17,9 +17,7 @@ body{
 .social-icon p a{margin-left: 5px; font-size: 35px; color: #777;} 
 .social-icon a:hover {color: white;}
 
-/*Footer*/ 
-/*footer{ margin-top: 20px; padding: 20px 0 0; background-color: #222; color: #fff; } 
-footer a{color: #fff;}*/
+
  
 /*Store Locations List*/ 
 .store-locate-header {margin-top: 30px; margin-bottom: 20px;  }
@@ -64,8 +62,9 @@ footer a{color: #fff;}*/
 /*Beast Slideshow Display*/  
 #block-views-slideshow-block{padding-right: 0px; padding-left: 0px;}  
 .slide-titles {margin:5px;}
-.slideshow-beast{border-bottom: 4px solid; border-color: rgb(238,238,238); padding-top: 10px; margin-top: 10px;} 
-
+.slideshow-beast{border-bottom: 3px solid; border-color:#080808; padding-top: 10px; margin-top: 15px;} 
+.carousel-caption {bottom: 60px;}
+.carousel-indicators{bottom: 5px;} 
 /*Front Page Map*/ 
 .front-page-map h2 {text-align: center; margin: 15px;padding: 5px;} 
 .front-page-map div {border: 1px solid; border-color: rgb(238,238,238);} 
@@ -73,5 +72,8 @@ footer a{color: #fff;}*/
 /*Front Page Contact Form*/ 
 .front-page-contact-us h2{text-align: center; margin: 20px; padding: 10px;}
 .slideshow-beast{border-bottom: .5px solid; border-color: white;}
+
+/*Footer*/ 
+.footer-contact {line-height: 1; text-align: center;}
 
 
